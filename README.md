@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web Application to Translate and Correct Text Using AI APIs
 
-## Getting Started
+This repository contains a web application that allows users to **translate** and **correct the spelling** of text using advanced AI APIs. The application provides a user-friendly interface where users can input text, and the system processes it to deliver accurate translations and spelling corrections.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## **Features**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Text Translation**:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+  - Utilizes AI-powered translation APIs to translate text into multiple languages.
+  - Supports dynamic language selection for source and target languages.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Spelling Correction**:
 
-## Learn More
+  - Integrates AI-based spelling correction tools to identify and fix grammatical and orthographic errors in the input text.
+  - Ensures the output is clear, concise, and error-free.
 
-To learn more about Next.js, take a look at the following resources:
+- **User-Friendly Interface**:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  - Built with **Tailwind CSS** for a modern, responsive, and visually appealing design.
+  - Simple and intuitive form for text input and output display.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## **Technologies Used**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Frontend**: HTML, Tailwind CSS, JavaScript
+- **Backend**: Node.js
+- **APIs**:
