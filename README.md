@@ -7,7 +7,7 @@ This repository contains a web application that allows users to **translate** an
 ## Features
 
 - **Text Translation**:
-  - Utilizes **Ollama** with models like LLaMA 2 or Mistral to translate text into multiple languages.
+  - Utilizes **Ollama** with the model LLaMA 3 to translate text into multiple languages.
   - Supports dynamic language selection for source and target languages.
 
 - **Spelling Correction**:
@@ -33,7 +33,9 @@ This repository contains a web application that allows users to **translate** an
 
 ---
 
-## Project Structure
+## Contact : 
 
-Here’s the optimized project structure for your local Ollama-based application:
+For questions or feedback, feel free to reach out: 
+
+- **Discord** : Lutite
 

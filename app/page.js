@@ -1,9 +1,14 @@
-import Image from "next/image";
+
+import Header from "@/src/components/Header.js";
+import BodyTranslation from "@/src/components/BodyTranslation.js";
+import Footer from "@/src/components/Footer.js";
 
 export default function Home() {
   return (
-    <div className="">
-      <p>Traduction</p>
+    <div className="flex flex-col ">
+      <Header />
+      <BodyTranslation/>
+      <Footer />
     </div>
   );
 }
