@@ -27,9 +27,9 @@ This repository contains a web application that allows users to **translate** an
 ## Technologies Used
 
 - **Frontend**: HTML, Tailwind CSS, JavaScript
-- **Backend**: Node.js (or Flask/Python)
+- **Backend**: Node.js 
 - **AI Model**: Ollama (LLaMA 3.1)
-- **Tools**: PostCSS, Vite (for frontend build optimization)
+
 
 ---
 
