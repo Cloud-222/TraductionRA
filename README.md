@@ -7,7 +7,7 @@ This repository contains a web application that allows users to **translate** an
 ## Features
 
 - **Text Translation**:
-  - Utilizes **Ollama** with the model LLaMA 3 to translate text into multiple languages.
+  - Utilizes **Ollama** with the model llama3.1:8b to translate text into multiple languages.
   - Supports dynamic language selection for source and target languages.
 
 - **Spelling Correction**:
@@ -28,10 +28,14 @@ This repository contains a web application that allows users to **translate** an
 
 - **Frontend**: HTML, Tailwind CSS, JavaScript
 - **Backend**: Node.js 
-- **AI Model**: Ollama (LLaMA 3.1)
+- **AI Model**: Ollama (llama3.1:8b)
 
 
 ---
+## More info
+- You can use the project or edit it as you want i dont mind.
+- The project is made to run for local Ai but you can edit the code so you use API Tokens online.
+- The spelling function is not out yet but will be available soon.
 
 ## Contact : 
 
